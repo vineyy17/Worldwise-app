@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -35,6 +23,30 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Naut Aran",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-06-27T13:00:34.044Z",
+      "notes": "I had an amazing time",
+      "position": {
+        "lat": "42.73087427928485",
+        "lng": "0.9228515625000001"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Tabanera de Cerrato",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-06-28T04:19:26.619Z",
+      "notes": "",
+      "position": {
+        "lat": "42.00032514831623",
+        "lng": "-4.064941406250001"
+      },
+      "id": 98443199
     }
   ]
 }
